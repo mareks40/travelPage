@@ -8,6 +8,11 @@ ul {
   padding: 0;
   margin: 0;
 }
+ul a {
+  padding: 10px;
+  text-decoration: none;
+}
+
 #page-logo a {
   padding: 10px;
   font-family: "Oleo Script", sans-serif;
