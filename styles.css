@@ -1,4 +1,4 @@
-/* Main section start */
+/* Main section - hero start */
 
 #hero {
   height: 800px;
@@ -48,3 +48,18 @@
 #hero-content a:hover {
   background-color: rgb(255, 238, 0);
 }
+/* Main section - hero end */
+
+/* Main section - highlights start */
+#destinations {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.destination img {
+  height: 200px;
+}
+/* Main section - highlights end */
