@@ -54,12 +54,15 @@
 #destinations {
   display: flex;
   width: 90%;
-  margin: auto;
-  justify-content: center;
+  margin: 0 auto;
   margin-bottom: 40px;
 }
+/* width: 90%;
+margin: auto;
+margin-bottom: 40px; */
 
 .destination img {
   height: 200px;
+  width: 100%;
 }
 /* Main section - highlights end */
