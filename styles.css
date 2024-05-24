@@ -51,6 +51,9 @@
 /* Main section - hero end */
 
 /* Main section - highlights start */
+#highlights {
+  padding: 24px;
+}
 
 #highlights h2 {
   text-transform: uppercase;
